@@ -26,14 +26,8 @@ spkr = $c030
 *
 *  Sound routine lookup table
 *
-*-------------------------------
-lookup
-
-:0 dw DoPlateDown
-:1 dw DoPlateUp
-:2 dw DoGateDown
-:3 dw DoSpecialKey1
-:4 dw DoSpecialKey2
+*----------------------
+:2 dw DoGateDow
 :5 dw DoSplat
 :6 dw DoMirrorCrack
 :7 dw DoLooseCrash
