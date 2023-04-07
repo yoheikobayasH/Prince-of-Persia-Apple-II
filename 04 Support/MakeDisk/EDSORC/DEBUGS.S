@@ -25,7 +25,7 @@ load = $4c00
 *  M O V E A U X L C
 *  (Move to auxiliary language card)
 *
-*  This code is loaded into mainmem, where MASTER calls it
+*  This code is loaded inem, where MASTER calls it
 *  to move itself & all other aux l.c. stuff to aux l.c.
 *
 *  WARNING--once in aux l.c. this code is useless!
