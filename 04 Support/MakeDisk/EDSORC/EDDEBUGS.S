@@ -48,9 +48,7 @@ MOVEAUXLC
  ldx #$20
  ldy #$50
 
-* "MOVEMEM"
-
- sta ]dest+1
+* "
  stx ]source+1
  sty ]endsourc+1
 
